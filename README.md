@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mykola Kuchumanskyi 👋</h1>
-<p align="center"><em>Python • Django • DRF • Full-stack developer · Available for freelance</em></p>
+<p align="center"><em>Python • Django • DRF · Available for freelance</em></p>
 
 <p align="center">
   <a href="https://github.com/mkuchuman?tab=followers"><img src="https://img.shields.io/github/followers/mkuchuman?style=social" alt="GitHub followers"></a>
@@ -9,11 +9,10 @@
 
 ## 👨‍💻 About me
 
-- 🏠 Based in Kyiv, Ukraine&nbsp;(UTC+2)  
+- 🏠 Based in Vienna, Austria&nbsp;(UTC+2)  
 - 💼 Freelancer focused on backend-heavy web apps, REST APIs and integrations  
 - 🛠 Main stack: **Python, Django, Django Rest Framework, Celery, PostgreSQL, Redis, Docker, GitHub Actions**  
-- 🎯 Secondary: **FastAPI, Flask, Vue 3, TypeScript**  
-- 🧪 Fan of **TDD** – aiming for 90 %+ coverage  
+- 🎯 Secondary: **FastAPI, Flask, Selenium, Seleniumbase, Playwrith, Curl-Cffi, BeautifulSoup4 and a lot of other**  
 - 📚 Continuous learner — latest courses: _Clean Architecture in Python_, _Effective Django Patterns_  
 
 ## ✨ Featured projects
@@ -36,7 +35,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github%20actions&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
 
 ## 📈 GitHub stats
 
@@ -47,9 +45,9 @@
 
 ## 🤝 Let’s connect
 
-- ✉️ Email: **kuchuman.dev@gmail.com**  
-- 💬 Telegram: [@mkuchuman](https://t.me/mkuchuman)  
-- 🌐 LinkedIn: [linkedin.com/in/mkuchuman](https://linkedin.com/in/mkuchuman)  
+- ✉️ Email: **mykolakuchuman@gmail.com**  
+- 💬 Telegram: [@angelpyf](https://t.me/angelpyf)  
+- 🌐 LinkedIn: [linkedin.com/in/mkuchuman]([https://linkedin.com/in/mkuchuman](https://www.linkedin.com/in/mykola-kuchuman-8475a2336/))  
 
 ---
 
