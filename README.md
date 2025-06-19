@@ -47,8 +47,8 @@
 
 - ✉️ Email: **mykolakuchuman@gmail.com**  
 - 💬 Telegram: [@angelpyf](https://t.me/angelpyf)  
-- 🌐 LinkedIn: [linkedin.com/in/mkuchuman]([https://linkedin.com/in/mkuchuman](https://www.linkedin.com/in/mykola-kuchuman-8475a2336/))  
+- 🌐 LinkedIn: [linkedin.com/in/mkuchuman](https://www.linkedin.com/in/mykola-kuchuman-8475a2336/)  
 
 ---
 
-<sub>_Last update: 2025-06-19 — generated with ❤️ by ChatGPT_</sub>
+
